@@ -29,7 +29,21 @@ Pull requests welcome, please follow the basic workflow:
 
 ### Todo
 
-* [x] [async]
-* [x] [binary-search]
-* [x] [curry]
-* [ ] [flattern]
+* [ ] [async]
+* [ ] [binary-search]
+* [ ] [debounce]
+* [x] [flattern](flattern/index.js)
+* [ ] [flattern-thunk]
+* [ ] [invert-tree]
+* [ ] [jasmine-async]
+* [ ] [map]
+* [ ] [memoize]
+* [ ] [merkle]
+* [ ] [middleware]
+* [ ] [morse-code]
+* [ ] [once]
+* [ ] [sort]
+* [ ] [throttle]
+* [ ] [throttle-promises]
+* [ ] [update]
+* [ ] [value]
