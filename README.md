@@ -12,6 +12,7 @@ Here's the basic workflow:
 [debounce]  $ vi index.js
 [debounce]  $ npm test
 ```
+
 This uses a basic TDD approach so take a look at the test.js file in each directory to see what needs to be implemented, write an index.js as the solution file
 
 ### Contributing
@@ -25,3 +26,9 @@ Pull requests welcome, please follow the basic workflow:
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
 [gitter-url]: https://gitter.im/kolodny/exercises
+
+### Todo
+
+* [x] [async]
+* [x] [binary-search]
+* [x] [curry]
