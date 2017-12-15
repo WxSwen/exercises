@@ -32,3 +32,4 @@ Pull requests welcome, please follow the basic workflow:
 * [x] [async]
 * [x] [binary-search]
 * [x] [curry]
+* [ ] [flattern]
