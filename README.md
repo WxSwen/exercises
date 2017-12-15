@@ -46,4 +46,4 @@ Pull requests welcome, please follow the basic workflow:
 * [ ] [throttle]
 * [ ] [throttle-promises]
 * [ ] [update]
-* [ ] [value]
+* [x] [value](value/index.js)
