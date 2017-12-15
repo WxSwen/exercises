@@ -32,7 +32,7 @@ Pull requests welcome, please follow the basic workflow:
 * [ ] [async]
 * [ ] [binary-search]
 * [ ] [debounce]
-* [x] [flattern](flattern/index.js)
+* [x] [flattern](flatten/index.js)
 * [ ] [flattern-thunk]
 * [ ] [invert-tree]
 * [ ] [jasmine-async]

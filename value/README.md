@@ -1,10 +1,12 @@
 Here's the basic usage of the file that you'll be creating:
 
 ```js
-var value = require('./') // <- this is the file you make;
+var value = require("./"); // <- this is the file you make;
 
-var scalar = 'foo';
-var fn = function() { return 'bar'; };
+var scalar = "foo";
+var fn = function() {
+  return "bar";
+};
 var fnTwice = function() {
   return fn;
 };
@@ -21,7 +23,7 @@ var whoa = function() {
             return function() {
               return function() {
                 return function() {
-                  return 'hi';
+                  return "hi";
                 };
               };
             };
@@ -32,11 +34,10 @@ var whoa = function() {
   };
 };
 
-value(scalar);   // should be      'foo'
-value(fn);       // should be      'bar'
-value(fnTwice);  // should also be 'bar'
+value(scalar); // should be      'foo'
+value(fn); // should be      'bar'
+value(fnTwice); // should also be 'bar'
 value(fnThrice); // should also be 'bar'
 
-value(whoa);     // should be      'hi'
-
+value(whoa); // should be      'hi'
 ```
