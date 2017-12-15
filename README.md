@@ -1,31 +1,8 @@
-[![Gitter][gitter-image]][gitter-url]
+### Introduction
 
-These are some basic (and advanced) coding challenges
+> 题目和测试用例来自 [kolodny/exercises](https://github.com/kolodny/exercises)
 
-Here's the basic workflow:
-
-```bash
-[~]         $ git clone https://github.com/kolodny/exercises
-[~]         $ cd exercises
-[exercises] $ npm install
-[exercises] $ cd debounce
-[debounce]  $ vi index.js
-[debounce]  $ npm test
-```
-
-This uses a basic TDD approach so take a look at the test.js file in each directory to see what needs to be implemented, write an index.js as the solution file
-
-### Contributing
-
-Pull requests welcome, please follow the basic workflow:
-
-1. Make a folder
-2. Copy a package.json from a sibling folder
-3. Make a test.js file
-4. Optionally provide a README.md
-
-[gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/kolodny/exercises
+采用 TDD 的方式保证代码的准确性，每一个题目都提供了说明，测试用例和参考答案，欢迎`pull request/issue/star`
 
 ### Todo
 
